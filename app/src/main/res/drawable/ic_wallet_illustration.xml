@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="84dp"
+    android:height="76dp"
+    android:viewportWidth="84"
+    android:viewportHeight="76">
+    <!-- Tiền giấy xanh nhô lên -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M26,12 L58,6 L62,32 L30,38 Z" />
+    <path
+        android:fillColor="#22C55E"
+        android:pathData="M34,10 L66,14 L62,40 L30,36 Z" />
+    <!-- Thân ví xanh đậm -->
+    <path
+        android:fillColor="#1E3A8A"
+        android:pathData="M22,26 H68 A6,6 0 0,1 74,32 V60 A6,6 0 0,1 68,66 H22 A6,6 0 0,1 16,60 V32 A6,6 0 0,1 22,26 Z" />
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M20,24 H66 A6,6 0 0,1 72,30 V58 A6,6 0 0,1 66,64 H20 A6,6 0 0,1 14,58 V30 A6,6 0 0,1 20,24 Z" />
+    <!-- Khóa gài ví -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M56,38 H74 V50 H56 A6,6 0 0,1 56,38 Z" />
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M58,44 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+    <!-- Chồng đồng xu vàng phía trước -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M14,56 a11,4 0 1,0 22,0 v6 a11,4 0 1,1 -22,0 z" />
+    <path
+        android:fillColor="#FACC15"
+        android:pathData="M14,56 a11,4 0 1,0 22,0 a11,4 0 1,0 -22,0" />
+    <path
+        android:fillColor="#FDE047"
+        android:pathData="M40,56 m-11,0 a11,11 0 1,0 22,0 a11,11 0 1,0 -22,0" />
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M40,56 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+</vector>
